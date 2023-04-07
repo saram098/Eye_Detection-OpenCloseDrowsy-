@@ -1,3 +1,7 @@
 # Eye_Detection-OpenCloseDrowsy-
 
-<img src="https://github.com/saram098/Eye_Detection-OpenCloseDrowsy-/blob/main/output_wpijZbpg.mp4" align="center" style="width: 100%" />
+
+
+https://user-images.githubusercontent.com/117343465/230595827-6c03ca10-5f71-41bc-8164-4324c19f9293.mp4
+
+
